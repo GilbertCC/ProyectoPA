@@ -26,5 +26,6 @@ public class HojaTrabajo1 {
     }
      public int getValor(){
         return Valor;
+     }
         
 }
